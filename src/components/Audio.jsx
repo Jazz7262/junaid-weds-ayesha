@@ -17,7 +17,7 @@ function Audio() {
         <>
             <audio id="audio" loop>
                 <source
-                    src="../assets/audio-files/bg-music.mpeg"
+                    src="../assets/audio-files/bg-music.mp3"
                     type="audio/mpeg"
                 />
             </audio>
